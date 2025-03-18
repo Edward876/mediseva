@@ -1,0 +1,98 @@
+{
+  "common": {
+    "getStarted": "Get Started",
+    "findDoctors": "Find Doctors",
+    "internships": "Internships",
+    "emergency": "Emergency",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "settings": "Settings",
+    "profile": "Profile",
+    "search": "Search",
+    "apply": "Apply",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save Changes",
+    "back": "Back",
+    "continue": "Continue"
+  },
+  "home": {
+    "hero": {
+      "title": "Your Health, Our Priority",
+      "subtitle": "Connect with top doctors, find internships, and get emergency assistance",
+      "findDoctors": "Find Doctors",
+      "emergency": "Emergency Services"
+    },
+    "features": {
+      "doctors": {
+        "title": "Expert Doctors",
+        "description": "Connect with experienced healthcare professionals"
+      },
+      "internships": {
+        "title": "Medical Internships",
+        "description": "Find clinical exposure opportunities"
+      },
+      "emergency": {
+        "title": "24/7 Emergency",
+        "description": "Quick access to emergency services"
+      }
+    },
+    "stats": {
+      "doctors": "500+ Doctors",
+      "students": "1000+ Students Placed",
+      "hospitals": "50+ Hospitals",
+      "support": "24/7 Support"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to access your account",
+      "email": "Email Address",
+      "password": "Password",
+      "forgotPassword": "Forgot Password?",
+      "noAccount": "Don't have an account? Sign up",
+      "loginButton": "Sign In"
+    },
+    "register": {
+      "patient": {
+        "title": "Create Patient Account",
+        "subtitle": "Get immediate access to healthcare services"
+      },
+      "doctor": {
+        "title": "Healthcare Provider Registration",
+        "subtitle": "Join our network of medical professionals"
+      },
+      "common": {
+        "fullName": "Full Name",
+        "email": "Email Address",
+        "password": "Password",
+        "phone": "Phone Number",
+        "address": "Address",
+        "hasAccount": "Already have an account? Sign in"
+      }
+    }
+  },
+  "doctors": {
+    "search": {
+      "placeholder": "Search doctors by name, specialization, or location...",
+      "filters": "Filters",
+      "rating": "Rating",
+      "price": "Price Range",
+      "availability": "Availability"
+    },
+    "booking": {
+      "title": "Book Appointment",
+      "available": "Available slots for {{doctor}}:",
+      "success": "Appointment booked with {{doctor}} at {{time}}"
+    }
+  },
+  "emergency": {
+    "title": "Emergency Services",
+    "subtitle": "Quick access to emergency medical services - No login required",
+    "requestAmbulance": "Request Ambulance",
+    "helpline": "Emergency Helpline",
+    "callNumber": "For immediate assistance, call"
+  }
+}

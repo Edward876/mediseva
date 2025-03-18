@@ -1,0 +1,32 @@
+{
+  "doctors": [
+    {
+      "id": "d1",
+      "email": "sarah.johnson@example.com",
+      "password": "doctor123",
+      "name": "Dr. Sarah Johnson",
+      "profilePic": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=300&h=300",
+      "specialization": ["Cardiology", "Internal Medicine"],
+      "hospital": "City General Hospital",
+      "license": "MED12345",
+      "education": "MD - Cardiology, MBBS",
+      "experience": 12,
+      "verified": true,
+      "workingHours": "9:00 AM - 5:00 PM"
+    },
+    {
+      "id": "d2",
+      "email": "michael.chen@example.com",
+      "password": "doctor456",
+      "name": "Dr. Michael Chen",
+      "profilePic": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&q=80&w=300&h=300",
+      "specialization": ["Neurology", "Neurosurgery"],
+      "hospital": "Metropolitan Medical Center",
+      "license": "MED67890",
+      "education": "MD - Neurology, MBBS",
+      "experience": 15,
+      "verified": true,
+      "workingHours": "10:00 AM - 6:00 PM"
+    }
+  ]
+}
